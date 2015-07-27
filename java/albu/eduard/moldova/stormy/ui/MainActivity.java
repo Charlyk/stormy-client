@@ -43,7 +43,7 @@ public class MainActivity extends ActionBarActivity {
     public static final String HOURLY_FORECAST = "HOURLY_FORECAST";
 
     private Forecast mForecast;
-
+	//comment for git
     @InjectView(R.id.temperatureLabelR) TextView mTemperatureLabel;
     @InjectView(R.id.timeLabelR) TextView mTimeLabel;
     @InjectView(R.id.humidityValue) TextView mHumidityValue;
