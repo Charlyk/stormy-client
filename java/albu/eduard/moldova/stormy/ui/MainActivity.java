@@ -44,7 +44,6 @@ public class MainActivity extends ActionBarActivity {
 
     private Forecast mForecast;
 	//comment for git
-	//added a new comment to test another branch feature
     @InjectView(R.id.temperatureLabelR) TextView mTemperatureLabel;
     @InjectView(R.id.timeLabelR) TextView mTimeLabel;
     @InjectView(R.id.humidityValue) TextView mHumidityValue;
